@@ -41,7 +41,7 @@ KyraFastapi/
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/your-username/kyra-fastapi.git
+git clone https://github.com/raheemtariq4800/KyraEndpoint.git
 cd kyra-fastapi
 ```
 

@@ -19,4 +19,5 @@ env/
 venv/
 
 # Environment variables
-.env
+config.bat
+node_modules
